@@ -1,0 +1,25 @@
+{
+  "done": {
+    "variables": {
+      "lives": {
+        "op": "zero"
+      }
+    }
+  },
+  "reward": {
+    "variables": {
+      "score": {
+        "reward": 20
+      },
+      "x": {
+        "reward": 100
+      },
+      "screen_x": {
+        "reward": 100
+      },
+      "level_end_bonus": {
+        "reward": 200
+      }
+    }
+  }
+}
